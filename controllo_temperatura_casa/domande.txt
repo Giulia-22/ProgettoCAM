@@ -1,4 +1,4 @@
 DOMANDE:
 1. limite superiore alla temperatura (insensato che arrivi a 3000 K)
-2. con R=Q=1 il CIS quasi contiene la condizione iniziale (non verificato con Q=1 e R=10 perchè non converge), inoltre la temperatura
-	arriva a 10.000 K
+2. con R=Q=1 il CIS quasi contiene la condizione iniziale (non verificato con Q=1 e R=10 perchè non converge. TODO: Verificare variazione vincoli CIS), inoltre la temperatura	arriva a 10.000 K. TODO: Verificare convergenza N step set
+3. Nel vincolo di uguaglianza, N step set non si allarga
